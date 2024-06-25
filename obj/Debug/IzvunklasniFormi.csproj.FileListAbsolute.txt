@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\IzvunklasniFormi\IzvunklasniFormi\bin\Debug\IzvunklasniFormi.exe.config
+C:\Users\Admin\source\repos\IzvunklasniFormi\IzvunklasniFormi\bin\Debug\IzvunklasniFormi.exe
+C:\Users\Admin\source\repos\IzvunklasniFormi\IzvunklasniFormi\bin\Debug\IzvunklasniFormi.pdb
+C:\Users\Admin\source\repos\IzvunklasniFormi\IzvunklasniFormi\obj\Debug\IzvunklasniFormi.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\IzvunklasniFormi\IzvunklasniFormi\obj\Debug\IzvunklasniFormi.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\IzvunklasniFormi\IzvunklasniFormi\obj\Debug\IzvunklasniFormi.exe
+C:\Users\Admin\source\repos\IzvunklasniFormi\IzvunklasniFormi\obj\Debug\IzvunklasniFormi.pdb
